@@ -1,14 +1,14 @@
 
-## Busque una de las soluciones de refactorizaci髇 m醩 simple aplicando patrones, polimorfismo 
-y conceptos POO; Siempre tomando en cuenta la l骻ica de negocio que se observo. ##
+## Busque una de las soluciones de refactorizaci贸n m谩s simple aplicando patrones, polimorfismo 
+## y conceptos POO; Siempre tomando en cuenta la l贸gica de negocio que se observo.
 
-Los procesos de refactorizaci髇 se hacen por etapas y siempre poniendo en consideraci髇 la 
-l骻ica del negocio que es lo que termina limitando el grado de la refactorizaci髇.
+Los procesos de refactorizaci贸n se hacen por etapas y siempre poniendo en consideraci贸n la 
+l贸gica del negocio que es lo que termina limitando el grado de la refactorizaci贸n.
 
-Se dejaron l骻icas que en una etapa superior se deber韆n considerar como el concepto de 
-reportes; Separando idiomas, figuras, impresi髇 y formatos de reportes. Dejando el concepto
-de formasGeometricas como una colecci髇 de formas que es la l骻ica de negocio principal.
+Se dejaron l贸gicas que en una etapa superior se deber铆an considerar como el concepto de 
+reportes; Separando idiomas, figuras, impresi贸n y formatos de reportes. Dejando el concepto
+de formasGeometricas como una colecci贸n de formas que es la l贸gica de negocio principal.
 
-En ning鷑 momento se considero tecnolog韆s (capas, IoC, archivos de recursos, etc.), capas 
-arquitect髇icas y conceptos de infraestructura ya que solo se busco lo mencionado al inicio. 
+En ning煤n momento se considero tecnolog铆as (capas, IoC, archivos de recursos, etc.), capas 
+arquitect贸nicas y conceptos de infraestructura ya que solo se busco lo mencionado al inicio. 
 (Estos conceptos se pueden charlar en una futura entrevista)
